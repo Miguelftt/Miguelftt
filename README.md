@@ -8,6 +8,8 @@
 </div>
 
 ![snake gif](https://github.com/Miguelftt/Miguelftt/blob/output/github-contribution-grid-snake-dark.svg)
+
+
  
 ### Main skills:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=&logoColor=1572B6&labelColor=0D1117)&nbsp;
