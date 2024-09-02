@@ -7,7 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=05FF00&text_color=05FF00&bg_color=0d1117" />
 </div>
 
-![snake gif](https://github.com/Miguelftt/Miguelftt/blob/output/github-contribution-grid-snake-dark.svg)
  
 ### Main skills:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=&logoColor=1572B6&labelColor=0D1117)&nbsp;
